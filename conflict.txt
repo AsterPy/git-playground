@@ -1,1 +1,1 @@
-Text from branch A
+Text from branch B
